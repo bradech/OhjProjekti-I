@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Testiä taas ja taas.
+TestiÃ¤ taas ja taas ja TAAS.
 </body>
 </html>
